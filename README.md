@@ -3,7 +3,7 @@ Flyway mit mehreren Datenbanksystemen verwenden
 ===============================================
 
 Link zum Blogeintrag: [Kedev Blog](https://blog.kedev.eu/flyway-multi-db/)
-Link zu Github: [FlywayMultiDatabase](https://blog.kedev.eu/flyway-multi-db/)
+Link zu Github: [FlywayMultiDatabase](https://github.com/KeDevServices/flyway-multi-db)
 
 Wir haben bisher schon in einigen Projekten erfolgreich mit
 [Flyway](https://flywaydb.org/) gearbeitet, wenn es um Schemaevolution
